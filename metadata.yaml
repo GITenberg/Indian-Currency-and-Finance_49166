@@ -1,4 +1,8 @@
 _repo: Indian-Currency-and-Finance_49166
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49166-h/images/cover.jpg
 creator:
   author:
     agent_name: Keynes, John Maynard
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6280
     wikipedia: http://en.wikipedia.org/wiki/John_Maynard_Keynes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49166#Indian-Currency-and-Finance
 gutenberg_issued: '2015-06-07'
 gutenberg_type: Text
 identifiers:
